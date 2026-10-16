@@ -1,0 +1,7 @@
+{
+  "name": "maqraa-data-tools",
+  "private": true,
+  "type": "module",
+  "description": "أدوات توليد ملفات الأماكن (السور والصفحات والأجزاء والأرباع) لمقرأة القرآن",
+  "dependencies": { "quran-meta": "7.0.0" }
+}
